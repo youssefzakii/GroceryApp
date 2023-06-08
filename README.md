@@ -1,4 +1,4 @@
-Sure, here's a sample README file for a Git Hub repository for a Flutter grocery app:
+
 
 # Flutter Grocery App
 
